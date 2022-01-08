@@ -1,0 +1,75 @@
+.navbar{
+    margin-bottom: 8px;
+    letter-spacing: 9px;
+    font-size: 28px;
+    color: rgb(8, 8, 8);
+    text-decoration: rgb(178, 214, 161);
+}
+
+.background{background-color: rgb(41, 102, 67);}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 30%;
+    margin: auto;}
+
+    .hr1{margin-bottom: 35px;}
+    .hr4{margin-bottom: 25px;}
+    .navnavbarnav{color: mediumpurple;}
+
+    .body{background-color: rgb(41, 102, 67);}
+
+  
+    .nav {font-size: 35px;}
+    .tema{color: red;}
+    
+    
+  .hr3 {margin-bottom: 75px;}
+  .item{background-color: rgb(3, 5, 15);
+}
+.kıs{ background-color: rgb(112, 206, 198);}
+.kıs{width: 300px; height: 250;}
+.kıs img {width: 300px;  height: 250pxpx;}
+.fulmine{background-color: rgb(78, 235, 64);}
+.fulmine img {width: 300px;  height: 250pxpx;}
+.fulmine{width: 300px; height: 250;}
+.piano{background-color: rgb(155, 141, 141);}
+.piano img {width: 300px;  height: 250pxpx;}
+.piano{width: 300px; height: 250;}
+.artsandwich{background-color: rgb(241, 181, 215);}
+.artsandwich img {width: 300px;  height: 250pxpx;}
+.artsandwich{width: 300px; height: 250;}
+.pinoli{background-color: rgb(230, 44, 44);}
+.pinoli img {width: 300px;  height: 250pxpx;}
+.pinoli{width: 300px; height: 250;}
+.lemonmerengtart{background-color: rgb(252, 251, 245);}
+.lemonmerengtart img {width: 300px;  height:250pxpx;}
+.lemonmerengtart{width: 300px; height: 250;}
+.pearmerengtart{background-color: rgb(215, 233, 55);}
+.pearmerengtart img {width: 300px;  height: 250pxpx;}
+.pearmerengtart{width: 300px; height: 250;}
+.negresko{background-color: rgb(100, 61, 10);}
+.negresko img {width: 300px;  height: 250pxpx;}
+.negresko{width: 300px; height: 250;}
+
+.page{background-color: rgb(252, 252, 252);}
+.title {background-color: indigo;}
+.row{background-color: rgb(145, 236, 133);}
+.hr6{margin-bottom: 75px; margin-right: 60px;}
+.görsel-nav{margin-right: 240px;}
+
+.t3{background-color:rgb(252, 252, 252) ;
+margin-right: 30px;
+}
+
+.isim{color: white;
+margin-bottom: 0px;
+margin-left: 15px;
+}
+
+.tema-nav{background-color: red;
+color: red;}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;}
+
+
